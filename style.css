@@ -1,0 +1,259 @@
+
+.logo{
+    width: 200px;
+    height: 59px;
+}
+.navbar-nav{ 
+    padding: 0 20px;
+}
+.sign-in-button{
+    background-color: #21B573;;
+    color: #fff;
+    border: none;
+    border-radius: 33px;
+    padding: 9px 25px;
+    cursor: pointer; 
+    margin-left: 15px;
+    
+}
+.get-button{
+    background-color: #21B573;;
+    color: #fff;
+    border: none;
+    border-radius: 33px;
+    padding: 9px 25px;
+    cursor: pointer; 
+
+}
+.images{
+    width: 100%;
+}
+.col-md-7{
+    padding-left: 10px;
+}
+.container{
+    margin-bottom: 70px;
+}
+.text-color{
+    color: orange;
+}
+.avobe-part{
+    background-color: #F0FFF0;
+    height: 550px;
+
+}
+.name-highlight{
+    color: #21B573;
+}
+.illustration{
+    margin-top: 130px;
+}
+.categories img{
+    width: 66px;
+    height: 85px;
+    margin-top: 40px;
+    margin-bottom: 15px;
+}
+.cat1, .cat2, .cat3, .cat4{
+    width: 270px;
+    height: 270px;
+    padding: 10px 30px;
+    border-radius: 10px;
+    margin-top: 40px;
+    text-align: center;
+}
+.cat1, .cat2, .cat3, .cat4{
+    background-color: #F8FFFB;
+}
+.cat1:hover{
+    background: #FFFFFF;
+    box-shadow: 0px 20px 40px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+    transition: .5s;
+}
+.cat2:hover{
+    background: #FFFFFF;
+    box-shadow: 0px 20px 40px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+    transition: .5s;
+}
+.cat3:hover{
+    background: #FFFFFF;
+    box-shadow: 0px 20px 40px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+    transition: .5s;
+}
+.cat4:hover{
+    background: #FFFFFF;
+    box-shadow: 0px 20px 40px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+    transition: .5s;
+}
+h4{
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 36px;
+    color: #413960;
+}
+h6{
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 24px;
+    color: #585859;
+    margin-bottom: 20px;
+    margin-top: none;
+
+}
+h3{
+    text-align: center;
+    margin-bottom: 40px;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 36px;
+    line-height: 54px;
+
+    color: #413960;
+}
+.card{
+    background: #FFFFFF;
+    box-shadow: 0px 10px 40px rgba(0, 0, 0, 0.1);
+    border-radius: 18px;
+}
+.course-start-icon img{
+    width: 24px;
+    height: 24px
+    
+}
+.course-start-icon{
+   
+    margin-top: 20px;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 24px;
+
+ }
+.testimonial-para{
+position: absolute;
+margin-bottom: 200px;
+height: 90px;
+margin-left: 80px;
+font-family: Poppins;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 30px;
+color: #000000;
+margin-top: 10px;
+}
+.testimonial-img{
+    width: 120px;
+    height: 120px;
+    margin-left: 220px;;
+}
+.footer-para{
+    color: #999;
+    line-height: 25px;
+    font-size: 16px;
+    line-height: 30px;
+}
+h5{
+    color: #fff;
+    font-size: 18px;
+
+}
+
+footer{
+    background: #282531;
+    padding: 80px 0;
+   
+}
+.segment-two h5{
+    color: #fff;
+    font-family: Poppins;
+    
+}
+.segment-two h5:before{
+    content: '|';
+    color: #c65039;
+    padding-right: 10px;
+}
+.segment-two ul{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    color: #999;
+}
+.segment-two ul li{
+    border-bottom: 1px solid rgba(255,255,255,0.3);
+    line-height: 40px;
+}
+.segment-two ul li a{
+    color: #fff;
+    text-decoration: none;
+
+}
+.segment-three h5 {
+    color: #fff;
+    font-family: Poppins;
+
+}
+.segment-three ul li{
+    border-bottom: 1px solid rgba(255,255,255,0.3);
+    line-height: 40px;
+}
+
+.segment-three ul{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    color: #999;
+}
+.segment-three ul li a{
+    color: #fff;
+    text-decoration: none;
+}
+
+.segment-three h5:before{
+    content: '|';
+    color: #c65039;
+    padding-right: 10px;
+}
+
+.segment-four h5{
+    color: #fff;
+    font-family: Poppins;
+}
+.segment-four h5:before{
+    content: '|';
+    color: #c65039;
+    padding-right: 10px;
+}
+.segment-four form input[type=submit]{
+    background: #c65039;
+    border: none;
+    padding: 3px 15px;
+    
+    color: #fff;
+    text-transform: upercase;
+}
+.footer-bottom-text{
+    text-align: center;
+}
+.footer-bottom{
+    text-align: center;
+    color: #999;
+    background-color: #282531;
+    line-height: 150px;
+}
+.bottom-text{
+    color: #999;
+    text-align: center;
+    font-size: 14px;
+    font-weight: normal;
+    font-style: normal;
+}
